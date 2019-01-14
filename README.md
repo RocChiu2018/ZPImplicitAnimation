@@ -1,0 +1,2 @@
+# ZPImplicitAnimation
+本Demo主要介绍了制作动画的三种主要方式以及隐式动画的概念和如何去除隐式动画。
